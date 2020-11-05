@@ -10,7 +10,7 @@ homepage: https://github.com/oracle-dart/oracle.dart
 environment:
   sdk: ">=2.7.0 <3.0.0"
 dependencies:
-  grinder: ^0.7.2
+  grinder: ^0.8.6
 dev_dependencies:
   logging: ^0.11.1
   test: ^0.12.4+3
